@@ -1,0 +1,2 @@
+# djangular
+first django project
